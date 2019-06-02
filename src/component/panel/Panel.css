@@ -1,0 +1,52 @@
+.Panel {
+    height: 100%;
+    width: 300px;
+    display: block;
+    background-color: #252526;
+}
+
+.PanelHeader {
+    height: 70px;
+    width: 300px;
+    color: #ffffff;
+    background-color: #cc4f31;
+    border: 1px solid #8c3724;
+}
+
+.PanelHeaderLogo {
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.PanelFilter {
+    background-color: #8c3724;
+    border: 1px solid #101010;
+    color: #ffffff;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+    font-size: 14px;
+    width: 280px;
+    outline: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.PanelFilter::placeholder {
+    color: #ffffff
+}
+
+.LoadMoreButton {
+    height: 40px;
+    width: 300px;
+    color: #ffffff;
+    transition: 0.3s;
+    border-style: solid;
+    background-color: #252526;
+    border-color: #101010;
+    border-bottom: 1px;
+    padding-top: 15px;
+}
+
+.LoadMoreButton:hover {
+    background-color: #101010;
+}

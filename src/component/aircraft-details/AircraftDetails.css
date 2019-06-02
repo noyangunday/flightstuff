@@ -1,0 +1,11 @@
+.AircraftDetails {
+    display: block;
+    width: 400px;
+    height: auto;
+    background-color: #252526;
+    margin-top: 40px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    border: #101010 1px solid;
+    color: #ffffff
+}

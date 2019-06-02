@@ -1,0 +1,26 @@
+.RotationFlightName {
+    padding-top: 10px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.RotationFlightDetails {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.RotationTile {
+    height: 100px;
+    width: 440px;
+    background-color: #252526;
+    border: 1px solid #101010;
+    border-top: 0px;
+    color: white;
+    display:block;
+    transition: 0.3s;
+}
+
+.RotationTile:hover {
+    background-color: #101010;
+}

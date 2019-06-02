@@ -1,0 +1,19 @@
+.FlightDetails {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  
+  .FlightName {
+      padding-top: 10px;
+      text-align: center;
+  }
+  
+  .FlightFrom {
+      float: left;
+      text-align: left;
+  }
+  
+  .FlightTo {
+      float: right;
+      text-align: right;
+  }
